@@ -1,9 +1,9 @@
 import pandas as pd
 
 Data=[
-    {"name": "abhi","age":22,"city":"bhopal"}
-    {"name": "vashu","age":20,"city":"bhopal"}
-    {"name": "dheeraj","age":26,"city":"bengaluru"}
+    {"name": "abhi","age":22,"city":"bhopal"},
+    {"name": "vashu","age":20,"city":"bhopal"},
+    {"name": "dheeraj","age":26,"city":"bengaluru"},
     {"name": "pradeep","age":22,"city":"bombay "}
     
 ]
